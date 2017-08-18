@@ -1,3 +1,9 @@
+Exam Day
+Simulates an exam day utilizing threads and a client-server model.
+Developed monitors to synchronize the threads in the context of the problem.
+Client threads connect to server to participate in story.
+Created a server that spawned threads to handle clients accordingly.
+
 How to run:
 1.Run server.jar
 2.Run client.jar
